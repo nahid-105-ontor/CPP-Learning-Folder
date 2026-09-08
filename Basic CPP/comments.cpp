@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"Comments are Twu types:"<<endl;
+    cout<<"Comments are Two types:"<<endl;
     cout<<"1)Single Line Comment"<<endl;
     cout<<"2)Multiline Comment"<<endl;
     return 0;

@@ -1,0 +1,75 @@
+Palindrome number
+Check whether a number reads the same forward and backward.
+Example: 121 → Palindrome
+123 → Not Palindrome
+
+Factorial
+Calculate N!.
+Example: 5! = 120
+
+Find the largest digit
+Example:
+58392 → 9
+
+Count a specific digit
+Take a number and a digit, then count how many times that digit occurs.
+Example: 122321, digit 2 → 3 times
+
+🟠 Pattern Practice
+Print:
+*
+**
+***
+****
+*****
+
+Print:
+*****
+****
+***
+**
+*
+
+Print:
+1
+12
+123
+1234
+12345
+
+Print:
+1
+22
+333
+4444
+55555
+
+Print:
+    *
+   **
+  ***
+ ****
+*****
+
+🔴 Challenge
+Prime number
+Take a number and determine whether it is prime using a loop.
+
+Print all primes from 1 to N
+
+Fibonacci series
+Print the first N Fibonacci numbers.
+Example:
+
+0 1 1 2 3 5 8 13
+
+GCD using loops
+Take two numbers and find their GCD without using a built-in GCD function.
+
+Armstrong number
+Check whether a number is an Armstrong number.
+Example: 153 = 1³ + 5³ + 3³ = 153
+
+Perfect number
+Check whether a number equals the sum of its proper divisors.
+Example: 6 → 1 + 2 + 3 = 6
